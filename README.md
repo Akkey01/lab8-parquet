@@ -285,7 +285,7 @@ Expected:
 ssh $USER@dataproc.hpc.nyu.edu
 
 # 2. Clone the repo
-git clone https://github.com/<repo>/lab8-parquet.git
+git clone https://github.com/Akkey01/lab8-parquet.git
 cd lab8-parquet
 
 # 3. Upload all data to HDFS
